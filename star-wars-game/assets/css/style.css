@@ -1,0 +1,21 @@
+body {
+    background-image: url(../images/star-wars-wallpapers.jpg);
+}
+h1{
+    color: antiquewhite;
+}
+#title {
+    float: right;
+    margin-right: 30px; 
+    font-size: 50px;
+}
+#charSel {
+    display: flex;
+}
+.char {
+    text-align: center;
+    font-weight: bold;
+    color: fuchsia;
+}
+
+
